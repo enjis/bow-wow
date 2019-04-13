@@ -1,0 +1,6 @@
+## Not tracking these folders
+.ipynb_checkpoints
+data/
+
+## Not tracking these formats
+## *.ipynb
