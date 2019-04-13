@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [//]: # (Image References)
 
 [image1]: ./images/sample_dog_output.png "Sample Output"
@@ -63,3 +64,7 @@ Please do __NOT__ include any of the project data sets provided in the `dogImage
 ### Ready to submit your project?
 
 Click on the "Submit Project" button in the classroom and follow the instructions to submit!
+=======
+# bow-wow
+Classifying dog breed using CNNs
+>>>>>>> 0a07e4f23be5ab1a49ed41fae268e3e59f7e6531
